@@ -78,8 +78,8 @@ Configure your Google Maps API Key in app/src/main/AndroidManifest.xml:
     android:value="YOUR_GOOGLE_MAPS_SDK_KEY" />
 ---
 
-API Reference, Admin Management Endpoints, Security Best Practices
+API Reference, Admin Management Endpoints, Security Best Practices:
  Contact me
- ---
- License
+---
+License
 This repository is maintained for academic and software engineering research. All product names, retailer logos, and trademarks belong to their respective corporate owners.
