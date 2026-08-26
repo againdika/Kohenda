@@ -80,6 +80,6 @@ Configure your Google Maps API Key in app/src/main/AndroidManifest.xml:
 
 API Reference, Admin Management Endpoints, Security Best Practices:
  Contact me
----
+ ---
 License
 This repository is maintained for academic and software engineering research. All product names, retailer logos, and trademarks belong to their respective corporate owners.
