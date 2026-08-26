@@ -1,4 +1,4 @@
-<img width="1586" height="1049" alt="Kohenda_Architecture_Overview" src="https://github.com/user-attachments/assets/0126db70-6a8a-4aa4-bff4-66f489569c7a" /># Kohenda (GrocerySmart)
+# Kohenda (GrocerySmart)
 
 Kohenda is an intelligent FMCG price comparison engine and AI dietary lifestyle companion tailored for Sri Lankan retail consumers. The platform crawls, normalizes, and compares real-time grocery prices across leading national supermarket chains (Keells Super and Cargills Food City), while using Retrieval-Augmented Generation (RAG) with Google Gemini AI to synthesize cost-bounded meal plans and calculate lowest-cost shopping baskets.
 
