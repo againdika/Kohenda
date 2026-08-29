@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="gcm_defaultSenderId" translatable="false">401712025192</string>
-    <string name="google_api_key" translatable="false">AIzaSyBLouAUslEnGQyDirwajLU263GMyqvP6kQ</string>
-    <string name="google_app_id" translatable="false">1:401712025192:android:4fbcf973673ff80e47b5dd</string>
-    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBLouAUslEnGQyDirwajLU263GMyqvP6kQ</string>
-    <string name="google_storage_bucket" translatable="false">grocerysmart-c6e3d.firebasestorage.app</string>
-    <string name="project_id" translatable="false">grocerysmart-c6e3d</string>
-</resources>
