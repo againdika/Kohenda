@@ -71,7 +71,7 @@ Physical Device: http://<YOUR_LOCAL_MACHINE_IP>:8000/
 
 Cloud Instance (AWS/Azure): https://api.yourdomain.com/
 
-Configure your Google Maps API Key in app/src/main/AndroidManifest.xml:
+Configure your Google Maps API Keys
 
 <meta-data
     android:name="com.google.android.geo.API_KEY"
